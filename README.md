@@ -1,7 +1,7 @@
 # Merge-Sort-Odevi
 
 
-![Merge Sort Image](https://www.hizliresim.com/lzqqdsm görsel)
+![Merge Sort Image]([https://www.hizliresim.com/lzqqdsm görsel])
 Merge Sort Odevi
 [16,21,11,8,12,22] -> Merge Sort
 ## Sorular
